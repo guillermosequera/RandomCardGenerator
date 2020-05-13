@@ -1,0 +1,39 @@
+body{
+    background-color: green;
+}
+.Container{
+        width: 400px;
+        margin: auto;
+}
+.Card{
+    height: 38em;
+    width: 26em;
+    background-color: white;
+    border-radius: 1em;
+    box-shadow: 8px 8px 14px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+.Card p {
+    font: 215px/580px Times New Roman, serif;
+    text-align: center;
+    margin: auto;
+}
+#topSuit {
+    content: "";
+    font-size: 175px;
+    position: relative;
+    
+}
+#topSuit {
+    content: "";
+    font-size: 175px;
+    position: relative;
+    top: -35px;
+    left: 20px;
+        }
+.redSuit{
+    color: red;
+}
+.blackSuit{
+    color: black;
+}
