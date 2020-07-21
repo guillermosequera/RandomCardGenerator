@@ -60,6 +60,3 @@ body{
 .card.card.clubs .numbers::before, .card.card.clubs .numbers::after {
     content: '\2663';
 }
-/* .blackSuit{
-    color: black;
-} */
